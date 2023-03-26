@@ -27,28 +27,31 @@ Complete the innformaton below
 
 ## Identifying Information
 
-* Name:
-* Student ID:
-* Email:
-* Course:
-* Assignment:
+* Name: Andrew Goad
+* Student ID: 2423542
+* Email: agoad@chapman.edu
+* Course: CPSC-298-01
+* Assignment: username.sh script
 
 ## Source Files
 
-*
+* zip.sh
 
 ## References
 
-*
+* slides given on canvas
 
 ## Known Errors
 
-*
+* N/A
 
 ## Build Instructions
 
-*
+* # Display the rules for a valid username
+* # Prompt the user to enter a username
+* # Check if the username is valid
+* # If the username is valid, thank the user and exit
 
 ## Execution Instructions
 
-*
+* Input a username that follows the instructions given
