@@ -55,3 +55,5 @@ Complete the innformaton below
 ## Execution Instructions
 
 * Input a username that follows the instructions given
+* Script checks if it meets the requirements, if it doesn't it prompts you to enter a new username
+* If the username fits the criteria, It will accept it and thank the user.
