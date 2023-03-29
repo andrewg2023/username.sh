@@ -9,7 +9,7 @@ echo "- Must start with a lowercase letter."
 echo "- Must contain at least three but no more than 12 characters."
 
 while true; do
-  read -p "Enter a username: " username
+  read -r -p "Enter a username: " username
   if [[ $username =~ ^[a-z][a-z0-9_]{2,11}$ ]]; then
     echo "Thank you! The username '$username' is valid."
     exit 0
