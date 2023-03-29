@@ -1,7 +1,7 @@
 #!/bin/bash
 # username.sh
-# author:
-# date:
+# author: Andrew Goad
+# date: 3/26/23
 
 echo "Username must follow these rules:"
 echo "- Only lowercase letters, digits, and underscore (_) characters are allowed."
